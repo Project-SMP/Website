@@ -24,7 +24,48 @@ body, html {
   color: white;
 }
 p {
-  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  position: relative;
+}
+h1 {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  position: relative;
+}
+h2 {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  position: relative;
+}
+h3 {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  position: relative;
+}
+h4 {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  position: relative;
+}
+h5 {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  position: relative;
+}
+h6 {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  position: relative;
+}
+hr {
   margin-left: 10%;
   margin-right: 10%;
   color: black;
